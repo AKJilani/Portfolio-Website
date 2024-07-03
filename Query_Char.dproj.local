@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2024/07/02 16:11:45.175,=C:\Users\jilani\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/02 16:12:36.437,E:\A.K.Jilani\akjilani\Delphi\Query Generator\Query_Generator.dfm=C:\Users\jilani\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/07/02 16:12:36.437,E:\A.K.Jilani\akjilani\Delphi\Query Generator\Query_Generator.pas=C:\Users\jilani\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/02 16:12:39.323,E:\A.K.Jilani\akjilani\Delphi\Query Generator\Project2.dproj=C:\Users\jilani\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>2024/07/02 16:59:19.037,E:\A.K.Jilani\akjilani\Delphi\Query Generator\Generate_Query.dproj=E:\A.K.Jilani\akjilani\Delphi\Query Generator\Project2.dproj</Transaction>
+    <Transaction>2024/07/02 17:02:04.540,E:\A.K.Jilani\akjilani\Delphi\Query Generator\Query.dproj=E:\A.K.Jilani\akjilani\Delphi\Query Generator\Generate_Query.dproj</Transaction>
+    <Transaction>2024/07/02 17:02:58.035,E:\A.K.Jilani\akjilani\Delphi\Query Generator\Query_Char.dproj=E:\A.K.Jilani\akjilani\Delphi\Query Generator\Query.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
